@@ -1,4 +1,4 @@
-flask==0.9
+flask==1.0
 werkzeug==0.8.3
 tornado==4.0.1
 sockjs-tornado>=1.0.0
